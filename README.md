@@ -1,5 +1,5 @@
 ## coding-project-template
-The basic layout of the React application for this project **e-plantShopping** was forked from [ibm-developer-skills-network](https://github.com/ibm-developer-skills-network/e-plantShopping.git).
+The basic layout of the React application **e-plantShopping** for this project was forked from [ibm-developer-skills-network](https://github.com/ibm-developer-skills-network/e-plantShopping.git).
 
 # Final project for IBM Front-end Course: Paradise Nursery Shopping Application
 A shopping cart application **e-plantShopping** for an online plant shop which offers a variety of house plants
